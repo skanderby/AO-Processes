@@ -2497,9 +2497,9 @@
     "restore": {
       "projectUniqueName": "AFD",
       "projectName": "AFD",
-      "projectPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\AFD\\.local",
+      "projectPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\AO Processes\\AFD\\.local",
       "packagesPath": "C:\\Users\\SKbenyahia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\AFD\\.local"
+      "outputPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\AO Processes\\AFD\\.local"
     },
     "frameworks": {
       "net461": {
@@ -2542,98 +2542,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Google.Apis 1.44.0' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Google.Apis"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Google.Apis.Core 1.44.0' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Google.Apis.Core"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Google.Apis.Auth 1.44.0' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Google.Apis.Auth"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Google.Apis.Sheets.v4 1.44.0.1877' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Google.Apis.Sheets.v4"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Google.Apis.Drive.v3 1.44.0.1863' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Google.Apis.Drive.v3"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Google.Apis.Docs.v1 1.44.0.1877' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Google.Apis.Docs.v1"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Google.Apis.Gmail.v1 1.44.0.1859' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Google.Apis.Gmail.v1"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Google.Apis.Script.v1 1.44.0.1882' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Google.Apis.Script.v1"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Google.Apis.Calendar.v3 1.44.0.1872' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Google.Apis.Calendar.v3"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'NodaTime 2.4.7' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "NodaTime"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.ApplicationInsights 2.3.0' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Microsoft.ApplicationInsights"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'MimeKit 2.5.1' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "MimeKit"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Newtonsoft.Json 12.0.3' from source 'https://www.myget.org/F/workflow/': This package is signed but not by a trusted signer.",
-      "libraryId": "Newtonsoft.Json"
-    }
-  ]
+  }
 }
