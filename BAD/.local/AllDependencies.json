@@ -1748,9 +1748,9 @@
     "restore": {
       "projectUniqueName": "BAD",
       "projectName": "BAD",
-      "projectPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\BAD\\.local",
+      "projectPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\AO Processes\\BAD\\.local",
       "packagesPath": "C:\\Users\\SKbenyahia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\BAD\\.local"
+      "outputPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\AO Processes\\BAD\\.local"
     },
     "frameworks": {
       "net461": {
@@ -1788,21 +1788,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Office.Interop.Excel 15.0.4795.1000' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Microsoft.Office.Interop.Excel"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'MicrosoftOfficeCore 15.0.0' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "MicrosoftOfficeCore"
-    }
-  ]
+  }
 }

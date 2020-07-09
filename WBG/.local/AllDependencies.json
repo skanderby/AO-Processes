@@ -1794,9 +1794,9 @@
     "restore": {
       "projectUniqueName": "WBG",
       "projectName": "WBG",
-      "projectPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\WBG\\.local",
+      "projectPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\AO Processes\\WBG\\.local",
       "packagesPath": "C:\\Users\\SKbenyahia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\WBG\\.local"
+      "outputPath": "C:\\Users\\SKbenyahia\\Documents\\UiPath\\AO Processes\\WBG\\.local"
     },
     "frameworks": {
       "net461": {
